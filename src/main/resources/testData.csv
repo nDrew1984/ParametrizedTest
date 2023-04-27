@@ -1,0 +1,10 @@
+NAME,DATE,EXPECTED MESSAGE
+xx yy,1984-12-15,Siker!
+Blastik,1984-12-15,Sikertelen beküldés! Hibaüzenet: Hiányzó keresztnév!
+" Andor",1984-12-15,Sikertelen beküldés! Hibaüzenet: Hiányzó vezetéknév!
+xx yy,19841215,Sikertelen beküldés! Hibaüzenet: Hibás dátum formátum!
+"",1984-12-15,Sikertelen beküldés! Hibaüzenet: Hiányzó név!
+xx yy,1922-08-01,Sikertelen beküldés! Hibaüzenet: Túl öreg a munkavégzéshez!
+xx yy,2023-12-24,Sikertelen beküldés! Hibaüzenet: Hibás dátum a jövőben született!
+xx yy,2022-08-01,Sikertelen beküldés! Hibaüzenet: Még gyermek!
+xx yy,2009-08-01,Sikertelen beküldés! Hibaüzenet: Túl fiatal a munkavégzéshez!
