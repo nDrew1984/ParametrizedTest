@@ -1,0 +1,2 @@
+# ParametrizedTest
+Practicing parametrized tests
